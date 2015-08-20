@@ -3,8 +3,9 @@ tower-example
 
 Ansible Tower Example Playbooks
 
-Changes for AlanCoding fork
+Use
 ------------
 
-Remove root user from playbook, which might help to run tutorials if
-the system already has a user account set up.
+Can be used for the source control in the Ansible Tower quickstart guide.
+
+http://docs.ansible.com/ansible-tower/latest/html/quickstart/index.html
